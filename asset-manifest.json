@@ -1,13 +1,13 @@
 {
   "main.css": "/cryptocheck/static/css/main.79dd1883.chunk.css",
-  "main.js": "/cryptocheck/static/js/main.dc5bc8a2.chunk.js",
-  "main.js.map": "/cryptocheck/static/js/main.dc5bc8a2.chunk.js.map",
+  "main.js": "/cryptocheck/static/js/main.78821c9d.chunk.js",
+  "main.js.map": "/cryptocheck/static/js/main.78821c9d.chunk.js.map",
   "runtime~main.js": "/cryptocheck/static/js/runtime~main.29db208a.js",
   "runtime~main.js.map": "/cryptocheck/static/js/runtime~main.29db208a.js.map",
   "static/js/2.6d83fd0c.chunk.js": "/cryptocheck/static/js/2.6d83fd0c.chunk.js",
   "static/js/2.6d83fd0c.chunk.js.map": "/cryptocheck/static/js/2.6d83fd0c.chunk.js.map",
   "index.html": "/cryptocheck/index.html",
-  "precache-manifest.eb06e7751b06493af1c092a9273212e2.js": "/cryptocheck/precache-manifest.eb06e7751b06493af1c092a9273212e2.js",
+  "precache-manifest.301995e8edd474443ba9802ee17c0083.js": "/cryptocheck/precache-manifest.301995e8edd474443ba9802ee17c0083.js",
   "service-worker.js": "/cryptocheck/service-worker.js",
   "static/css/main.79dd1883.chunk.css.map": "/cryptocheck/static/css/main.79dd1883.chunk.css.map"
 }

@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/cryptocheck/static/js/runtime~main.29db208a.js"
   },
   {
-    "revision": "7e2d3281d67473abb28d",
-    "url": "/cryptocheck/static/js/main.dc5bc8a2.chunk.js"
+    "revision": "f94ecc097bd8058f54eb",
+    "url": "/cryptocheck/static/js/main.78821c9d.chunk.js"
   },
   {
     "revision": "0678b9e4af12e3c7f24e",
     "url": "/cryptocheck/static/js/2.6d83fd0c.chunk.js"
   },
   {
-    "revision": "7e2d3281d67473abb28d",
+    "revision": "f94ecc097bd8058f54eb",
     "url": "/cryptocheck/static/css/main.79dd1883.chunk.css"
   },
   {
-    "revision": "c718175cae71ffde78d6ca47cc0d7f4f",
+    "revision": "927518c0a7eb08bab23f9d4b1cce1bca",
     "url": "/cryptocheck/index.html"
   }
 ];
