@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cryotocheck",
+  "name": "Real-time prices of bitcoin and other alt coins",
   "icons": [
     {
       "src": "favicon.ico",
