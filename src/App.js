@@ -1,25 +1,44 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import "./App.css";
+import Today from "./Today/Today";
+import History from "./History/History";
+import MainRouter from "./components/Main";
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
+      <div className="App white-text">
+        <div className="topheader">
+          <header className="container">
+            <nav className="navbar">
+              <div className="navbar-brand">
+                <span className="navbar-item">CryptoCheck</span>
+              </div>
+              <div className="navbar-end">
+                <a
+                  className="navbar-item"
+                  href="https://chiagozielam.github.io"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  My Portfolio
+                </a>
+              </div>
+            </nav>
+          </header>
+        </div>
+
+        <section className="results--section">
+          <div className="container">
+            <h1>
+              CryptoCheck gives you a real-time platform to easily chech the
+              price of Bitcoin and other Altcoins
+            </h1>
+          </div>
+          <div className="results--section__inner">
+            <MainRouter />
+          </div>
+        </section>
       </div>
     );
   }
